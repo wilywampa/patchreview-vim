@@ -1127,7 +1127,6 @@ function! s:generic_review(argslist)                                   "{{{
         let &modeline=0
         silent! exe 'topleft split ' . fnameescape(l:tmp_patch)
         setlocal noswapfile
-        setlocal syntax=none
         setlocal bufhidden=delete
         setlocal nobuflisted
         setlocal modifiable
@@ -1168,7 +1167,6 @@ function! s:generic_review(argslist)                                   "{{{
           endif
         endif
         setlocal noswapfile
-        setlocal syntax=none
         setlocal bufhidden=delete
         setlocal nobuflisted
         setlocal modifiable
