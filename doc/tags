@@ -1,6 +1,8 @@
 :DiffReview	patchreview.txt	/*:DiffReview*
 :PatchReview	patchreview.txt	/*:PatchReview*
 :ReversePatchReview	patchreview.txt	/*:ReversePatchReview*
+DiffReview	patchreview.txt	/*DiffReview*
+PatchReview	patchreview.txt	/*PatchReview*
 diffreview	patchreview.txt	/*diffreview*
 diffreview-usage	patchreview.txt	/*diffreview-usage*
 g:patchreview_patch	patchreview.txt	/*g:patchreview_patch*
