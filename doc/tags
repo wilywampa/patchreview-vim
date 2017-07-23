@@ -6,6 +6,7 @@ PatchReview	patchreview.txt	/*PatchReview*
 diffreview	patchreview.txt	/*diffreview*
 diffreview-usage	patchreview.txt	/*diffreview-usage*
 g:patchreview_disable_syntax	patchreview.txt	/*g:patchreview_disable_syntax*
+g:patchreview_foldlevel	patchreview.txt	/*g:patchreview_foldlevel*
 g:patchreview_patch	patchreview.txt	/*g:patchreview_patch*
 g:patchreview_patch_needs_crlf	patchreview.txt	/*g:patchreview_patch_needs_crlf*
 g:patchreview_postfunc	patchreview.txt	/*g:patchreview_postfunc*
@@ -22,6 +23,7 @@ patchreview-plugins	patchreview.txt	/*patchreview-plugins*
 patchreview-usage	patchreview.txt	/*patchreview-usage*
 patchreview.txt	patchreview.txt	/*patchreview.txt*
 patchreview_disable_syntax	patchreview.txt	/*patchreview_disable_syntax*
+patchreview_foldlevel	patchreview.txt	/*patchreview_foldlevel*
 patchreview_patch	patchreview.txt	/*patchreview_patch*
 patchreview_patch_needs_crlf	patchreview.txt	/*patchreview_patch_needs_crlf*
 patchreview_postfunc	patchreview.txt	/*patchreview_postfunc*
